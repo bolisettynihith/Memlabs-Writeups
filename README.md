@@ -1,6 +1,6 @@
 # Memlabs-Writeups
 
-This repositry contains the writeups for the Educational, CTF-styled labs for individuals interested in Memory Forensics, **Memlabs** made by [@_abhiramkumar](https://www.twitter.com/_abhiramkumar). These labs are useful for the beginners to start with Memory Forensics.
+This repository contains the writeups for the Educational, CTF-styled labs for individuals interested in Memory Forensics, **Memlabs** made by [@_abhiramkumar](https://www.twitter.com/_abhiramkumar). These labs are useful for the beginners to start with Memory Forensics.
 
 The memory files and Descriptions are available in the [github repo](https://github.com/stuxnet999/MemLabs).
 
