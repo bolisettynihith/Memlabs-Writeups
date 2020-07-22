@@ -19,6 +19,6 @@ Here are the writeups for the all labs.
 
 I hope you like my solution, feel free to contact me:
 
-Mail: [bolisettynihith@gmail.com](mailto:bolisettynihith@gmail.com)
-Twitter: [@NihithNihi](https://twitter.com/NihithNihi)
-Blog: [bolisettynihith.github.io](https://bolisettynihith.github.io)
+* Mail: [bolisettynihith@gmail.com](mailto:bolisettynihith@gmail.com)
+* Twitter: [@NihithNihi](https://twitter.com/NihithNihi)
+* Blog: [bolisettynihith.github.io](https://bolisettynihith.github.io)
