@@ -10,12 +10,12 @@ Here are the writeups for the all labs.
 
 | Lab | Challenge Name| Difficulty | Writeup |
 | :-: | :-: | :-: | :-: |
-| 1 | Beginner's Luck | Easy | https://bolisettynihith.github.io/2020/06/01/Memlabs-Lab-1-writeup/ |
-| 2 | A New World | Easy | https://bolisettynihith.github.io/2020/06/01/Memlabs-Lab-2-Writeup/ |
-| 3 | The Evil's Den | Easy - Medium | https://bolisettynihith.github.io/2020/06/01/Memlabs-Lab-3-writeup/ |
-| 4 | Obsession | Medium | https://bolisettynihith.github.io/2020/06/01/Memlabs-Lab-4-writeup/ |
-| 5 | Black Tuesday | Medium - Hard | https://bolisettynihith.github.io/2020/06/01/Memlabs-Lab-5-writeup/ |
-| 6 | The Reckoning | Hard | https://bolisettynihith.github.io/2020/06/01/Memlabs-Lab-6-writeup/ |
+| 1 | Beginner's Luck | Easy | https://bolisettynihith.github.io/Memlabs/Memlabs-Lab-1-writeup/ |
+| 2 | A New World | Easy | https://bolisettynihith.github.io/Memlabs/Memlabs-Lab-2-Writeup/ |
+| 3 | The Evil's Den | Easy - Medium | https://bolisettynihith.github.io/Memlabs/Memlabs-Lab-3-writeup/ |
+| 4 | Obsession | Medium | https://bolisettynihith.github.io/Memlabs/Memlabs-Lab-4-writeup/ |
+| 5 | Black Tuesday | Medium - Hard | https://bolisettynihith.github.io/Memlabs/Memlabs-Lab-5-writeup/ |
+| 6 | The Reckoning | Hard | https://bolisettynihith.github.io/Memlabs/Memlabs-Lab-6-writeup/ |
 
 I hope you like my solution, feel free to contact me:
 
